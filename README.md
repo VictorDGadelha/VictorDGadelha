@@ -7,6 +7,7 @@
 ## 🛠️ Tecnologias
 HTML
 CSS
+Java
 JavaScript
 React
 Python
@@ -17,6 +18,6 @@ Python
 - 🔹 Integração com API
 ---
 ## 📫 Contato
-- LinkedIn: (coloque aqui)
-- Email: (opcional)
+- LinkedIn: www.linkedin.com/in/victor-gadelha-668a4b3b1
+- Email: victorgadelha.dev@gmail.com
 ---
