@@ -30,23 +30,10 @@ Aqui estão as principais tecnologias com as quais trabalho e estudo:
 
 *Abaixo estão alguns dos meus principais projetos. Clique nos links para ver o código-fonte!*
 
-- 🔹 **[Sistema Web com Flask](#)**: *Breve descrição do sistema (ex: Um sistema de gerenciamento escolar criado em Python usando o micro-framework Flask).*
-- 🔹 **[Glossário com CRUD em CSV](#)**: *Aplicação para gerenciamento de termos utilizando operações CRUD completas com persistência de dados em arquivos CSV.*
-- 🔹 **[Integração com API](#)**: *Projeto focado no consumo e tratamento de dados de uma API externa (ex: integração com API de clima/filmes usando JavaScript).*
-
-> 💡 **Dica:** Não esqueça de trocar o `#` pelo link real do repositório de cada projeto!
-
----
-
-### 📊 Minhas Estatísticas do GitHub
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Victor" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=6&theme=radical" alt="Linguagens mais usadas" />
-</p>
-
-> ⚠️ **Atenção:** Troque a palavra `SEU_USUARIO_AQUI` no link das imagens acima pelo seu nome de usuário do GitHub para que os gráficos funcionem!
-
+- 🔹 **[Sistema Web com Flask]**: *Breve descrição do sistema (ex: Um sistema de gerenciamento escolar criado em Python usando o micro-framework Flask).*
+- 🔹 **[Glossário com CRUD em CSV]**: *Aplicação para gerenciamento de termos utilizando operações CRUD completas com persistência de dados em arquivos CSV.*
+- 🔹 **[Integração com API]**: *Projeto focado no consumo e tratamento de dados de uma API externa (ex: integração com API de clima/filmes usando JavaScript).*
+ 
 ---
 
 ### 📫 Como me encontrar
